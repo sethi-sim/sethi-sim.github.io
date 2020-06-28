@@ -23,3 +23,8 @@ max-width: 100%;
 width: 400px;
 border: 4mm ridge rgba(242, 213, 60, .6);
 }
+
+title {
+font-weigth: bold;
+font-size: 18px;
+}
