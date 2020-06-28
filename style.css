@@ -2,14 +2,18 @@
  font-family: 'Roboto', sans-serif;
  padding-left: 10px;
  padding-right: 20px;
- background-color: #FAE9D5;
+ background-color: #D7ECFF;
  }
  
  h1 {
  font-size: 16pt; 
- background-color:#D7ECFF; 
+ background-color:#FAE9D5;
  }
  
  p {
  font-size: 12pt;
  }
+
+img {
+width: 600px;
+}
