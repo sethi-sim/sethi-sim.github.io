@@ -11,7 +11,6 @@ a {
 
  h1 {
  font-size: 16pt; 
- color:#7D3CFF;
  background-color: #9370DB;
  }
  
@@ -21,5 +20,6 @@ a {
 
 img {
 max-width: 100%;
+width: 400px;
 border: 4mm ridge rgba(242, 213, 60, .6);
 }
