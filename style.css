@@ -2,12 +2,17 @@
  font-family: 'Roboto', sans-serif;
  padding-left: 10px;
  padding-right: 20px;
- background-color: #D7ECFF;
+ background-color: #FCEED1;
  }
- 
+
+a {
+ padding: 0;
+} 
+
  h1 {
  font-size: 16pt; 
- background-color:#FAE9D5;
+ color:#7D3CFF;
+ background-color: #9370DB;
  }
  
  p {
@@ -15,5 +20,6 @@
  }
 
 img {
-width: 600px;
+max-width: 100%;
+border: 4mm ridge rgba(242, 213, 60, .6);
 }
