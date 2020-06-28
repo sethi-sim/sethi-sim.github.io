@@ -1,11 +1,15 @@
 * {
-font-family: 'Roboto', sans-serif;
-}
-
-h1 {
- font-size: 16pt;   
-}
-
-p {
+ font-family: 'Roboto', sans-serif;
+ padding-left: 10px;
+ padding-right: 20px;
+ background-color: #FAE9D5;
+ }
+ 
+ h1 {
+ font-size: 16pt; 
+ background-color:#D7ECFF; 
+ }
+ 
+ p {
  font-size: 12pt;
-}
+ }
