@@ -22,6 +22,7 @@ img {
 max-width: 100%;
 width: 400px;
 border: 4mm ridge rgba(242, 213, 60, .6);
+ padding: 0;
 }
 
 title {
